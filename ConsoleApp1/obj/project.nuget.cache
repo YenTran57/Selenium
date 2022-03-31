@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "TmzzUheDTSAGI281tq/5Oks8NCmfiy9ad3dcH2Wz4P0ngqw981QuYB+iOalcgRwr9mjdDmmWheTRp1detxwEJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trung\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trung\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\trung\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\trung\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\trung\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\trung\\.nuget\\packages\\selenium.webdriver\\4.0.0\\selenium.webdriver.4.0.0.nupkg.sha512",
+    "C:\\Users\\trung\\.nuget\\packages\\selenium.webdriver.chromedriver\\94.0.4606.6100\\selenium.webdriver.chromedriver.94.0.4606.6100.nupkg.sha512",
+    "C:\\Users\\trung\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\trung\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\trung\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512",
+    "C:\\Users\\trung\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
